@@ -13,6 +13,9 @@ Reading and writing parquet file using drop downs to r and python
      2 python pandas
      3 Note powershell and read and write parquet files
 
+    github
+    https://tinyurl.com/3e8rvmh6
+    https://github.com/rogerjdeangelis/utl-reading-and-writing-parquet-file-using-drop-downs-to-r-and-python
 
     /*************************************************************************************************************************/
     /* INPUT                | PROCESS                                      |  OUTPUT                                         */
